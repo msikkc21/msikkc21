@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
 
 <h2 align="left">Hi 👋! My name is Izza and I'm a Undergraduate Informatics Engineering, from Indonesia</h2>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app?username=msikkc21&no-frame=true&theme=darkhub" height="150" alt="trophy graph"  />
 </div>
 
-###
+### My Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -55,7 +55,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
+### Social Media
+
 
 <div align="center">
   <a href="https://instagram.com/m.s.ikkc21" target="_blank">
@@ -66,8 +67,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
-
+### Play With Me
+***
 <br clear="both">
 
 <picture>
